@@ -9,7 +9,7 @@
 - 配置环境
 
 ```
-ccd breakdown-minimind
+cd breakdown-minimind
 pip install -r requirements.txt
 ```
 
